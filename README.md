@@ -258,26 +258,6 @@ jupyter notebook ev3_veh_classifier_cnn.ipynb
 
 ---
 
-## 📁 Estructura del Repositorio
-
-```
-.
-├── ev3_veh_classifier_cnn.ipynb        # Notebook principal (Colab)
-├── assets/                             # Imágenes de resultados (este README)
-│   ├── 01_dataset_sample.png
-│   ├── 02_edge_detection.png
-│   ├── 03_training_curves.png
-│   ├── 04_confusion_matrix_roc.png
-│   ├── 05_kpi_logistico.png
-│   ├── 06_predictions_grid.png
-│   └── 07_individual_inference.png
-├── docs/
-│   └── Informe_Tecnico_Clasificador_Vehicular_CNN.docx
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## 📄 Documentación Adicional
 
@@ -303,7 +283,14 @@ Este README ofrece una vista general del proyecto. El repositorio incluye ademá
 </p>
 
 ---
+## Autor
 
+**Mario Arce**
+Técnico Superior en Inteligencia Artificial y Ciencia de Datos (ISPC)
+
+- LinkedIn: https://www.linkedin.com/in/marioarce95/
+
+---
 ## 📜 Licencia
 
 Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
